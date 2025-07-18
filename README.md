@@ -7,7 +7,7 @@ Immersive, modern and animated **3D Developer Portfolio** built with performance
 
 ## 📸 Preview
 
-![Preview](./public/portfolio.png)
+![Preview](./project/public/portfolio.png)
 
 
 > 🔍 Yuqoridagi rasm loyihaning bosh sahifasidan olingan skrinshotdir. Agar boshqa joyga qo‘ygan bo‘lsangiz, rasm manzilini `./public/screenshot.png` o‘rniga yangilang.
