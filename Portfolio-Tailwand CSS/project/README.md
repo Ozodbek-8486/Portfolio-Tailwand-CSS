@@ -7,7 +7,9 @@ Immersive, modern and animated **3D Developer Portfolio** built with performance
 
 ## 📸 Preview
 
-![Preview](./project/public/f11.png)
+
+![Preview](./public/f11.png)
+
 
 
 
