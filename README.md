@@ -38,7 +38,6 @@ Immersive, modern and animated **3D Developer Portfolio** built with performance
 
 ## ⚙️ Loyihani ishga tushurish
 
-1. Repository’ni klonlang:
-   ```bash
-   git clone https://github.com/username/portfolio.git
-   cd portfolio/project
+npm install 
+
+npm run dev
